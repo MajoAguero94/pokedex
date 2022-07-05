@@ -1,3 +1,17 @@
 .banner{
     object-fit: cover;
 }
+/* CSS CARDS PAGINA PRINCIPAL */
+.spanColorVerde{
+    background-color: rgb(155, 204, 80);
+}
+.spanColorVioleta{
+    background-color: rgb(185, 127, 201);
+}
+.spanColorNaranja{
+    background-color: rgb(253, 125, 36);
+}
+
+.anchoCards{
+    width: 22%;
+}
